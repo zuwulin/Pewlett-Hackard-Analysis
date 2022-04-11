@@ -27,3 +27,8 @@ The results of the data organization process revealed the following statistics:
 
 ## Summary
 
+To conclude, as mentioned previously, Pewlett Hackard company will have to hire 72,458 new employees during the upcoming retirement wave transition period. Most of these roles represent a higher qualification positions, and are thus considered most challenging to fill in. One business recommendation for the company would be to allocate a great number of HR resources towards the hiring process of the senior staff prior to the retirement wave commencement.
+
+Secondly, as there are not enough qualified retirement-ready personell to train the incoming hires, Pewlett Hackard should also look into outsourced training certifications and bootcamps to assist the prospective mentors with the influx of new staff. This is especially important for the management positions to be open soon, as there are no eligible mentors identified within the company itself.
+
+Overall, Pewlett Hackard should prepare for a highly demanding transition period and should prepare for the major shifts in the company's dynamics accordingly.
